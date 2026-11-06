@@ -1,111 +1,75 @@
 # Hi, I'm Elie Kaboza Ilunga
 
-**Software Developer | Symfony Backend | SQL & Data Science**
+**Backend developer (Symfony, SQL) growing into data and AI engineering**, based in Kinshasa, DR Congo.
 
-I'm a software developer based in **Kinshasa, Democratic Republic of the Congo**, currently working with **SMART-TECHNOLOGY**. I build practical web applications, backend features, database-driven systems, and business tools with a strong focus on reliability, clarity, and real user needs.
+I build business web applications at **SMART-TECHNOLOGY**: backend features, database-driven modules and the reporting that sits on top of them. I care about code that is reliable, readable, and useful to the people who depend on it.
 
-My main stack today is **PHP, Symfony, MySQL, SQL, Twig, Doctrine, HTML/CSS, Git**, and I am progressively growing toward **Python, data analysis, machine learning, and AI engineering**.
-
----
-
-## About Me
-
-- I work on professional web applications using **Symfony** and **MySQL**.
-- I enjoy backend development, database structure, SQL queries, reporting, and application logic.
-- I care about writing code that is understandable, maintainable, and useful in real business contexts.
-- I am building a long-term path toward **Data Science** and **AI Engineering**.
-- I believe technology can help African businesses and communities solve practical problems at scale.
+My goal is to combine software engineering, data and AI to solve real business problems, especially for companies in Africa.
 
 ---
 
-## What I Do
+## What I work on
 
-```php
-$elie = [
-    'role' => 'Software Developer',
-    'location' => 'Kinshasa, DRC',
-    'focus' => ['Symfony', 'Backend Development', 'SQL', 'Data Science', 'AI'],
-    'goal' => 'Build reliable, data-driven and intelligent software solutions'
-];
+- **Production web applications** in Symfony and MySQL, including a real-estate platform I maintain
+- **SQL** for data extraction, tracking and reporting
+- **Server operations** on Ubuntu VPS: deployment, automation, backups
+- **Data analysis in Python** (pandas, NumPy), as part of a structured path toward machine learning
+
+---
+
+## Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **SmartBackup** <!-- add the repository link if it is public --> | Automates database backups for web applications on an Ubuntu VPS, sent to a NAS over a private network | Python, Linux, SQL, Git |
+| *Sales analysis: Kinshasa retail (in progress)* | Revenue trends, store performance and product mix, from raw orders to business recommendations | Python, pandas, SQL |
+
+More projects are coming as I progress through machine learning and AI applications.
+
+---
+
+## Tech stack
+
+**Daily use**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=flat-square&logo=doctrine&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-BACF29?style=flat-square&logo=twig&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Currently learning**
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-555555?style=flat-square)
+
+---
+
+## Learning path
+
+```
+Python & SQL → Data analysis → Statistics → Machine learning → LLMs & RAG → Deployment
+     ▲ here
 ```
 
----
-
-## Tech Stack
-
-### Backend & Web
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=for-the-badge&logo=doctrine&logoColor=white)
-![Twig](https://img.shields.io/badge/Twig-BACF29?style=for-the-badge&logo=twig&logoColor=black)
-
-### Data 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![AI Engineering](https://img.shields.io/badge/AI%20Engineering-5A45FF?style=for-the-badge)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I document what I learn as I go, and each stage ends with a public project.
 
 ---
 
-## Professional Focus
+## Contact
 
-I currently focus on:
-
-- Developing and maintaining business applications with **Symfony**
-- Building backend features connected to **MySQL** databases
-- Writing and improving **SQL queries** for extraction, tracking, and reporting
-- Structuring application data and improving existing modules
-- Learning how to transform data into insights with **Python, pandas, and NumPy**
-- Preparing for more advanced work in **machine learning and AI systems**
+- Email: [eliekaboza2025@gmail.com](mailto:eliekaboza2025@gmail.com)
+- Location: Kinshasa, DR Congo
+- Open to discussions about backend, data and AI projects
 
 ---
 
-## Current Learning Goals
-
-- Advanced Symfony architecture
-- Clean backend design and API development
-- Database design and SQL optimization
-- Python for data analysis
-- Statistics and machine learning fundamentals
-- Deep learning and AI engineering foundations
-- Technical English and professional communication
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KongaDan&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KongaDan&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## Vision
-
-My long-term vision is to become a strong **backend and AI engineer** capable of building reliable, intelligent, and data-driven products.
-
-I want to contribute to software that helps businesses, organizations, and communities make better decisions, automate useful work, and create measurable impact, especially in Africa.
-
----
-
-## Connect
-
-- GitHub: [@Elie-Ilunga](https://github.com/Elie-Ilunga)
-- Location: Kinshasa, Democratic Republic of the Congo
-- Email: [eliekaboza2025@gmail.com](mailto:eliekabilunga@gmail.com)
-
----
-
-> Building step by step, learning every day, and aiming for impact through software, data, and AI.
+> Building step by step, and aiming for impact through software, data and AI.
