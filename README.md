@@ -66,7 +66,7 @@ I document what I learn as I go, and each stage ends with a public project.
 
 ## Contact
 
-- Email: [eliekaboza2025@gmail.com](mailto:eliekabilunga@gmail.com)
+- Email: [eliekabilunga@gmail.com](mailto:eliekabilunga@gmail.com)
 - Location: Kinshasa, DR Congo
 - Open to discussions about backend, data and AI projects
 
